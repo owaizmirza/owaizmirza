@@ -1,27 +1,26 @@
 # Hi, I'm Owaiz 👋
 
-I'm building my career in **business analysis**, bringing together my background in data analysis, IT support, and graduate studies in Business Analytics.
+I'm starting out in **business analysis** after studying Business Analytics. My background also includes data analysis and IT support.
 
-What interests me most is the work behind a good solution: understanding the actual problem, asking the right questions, turning conversations into clear requirements, and using data to make better decisions.
+I'm interested in how businesses solve everyday problems—whether that's understanding a request, making a process simpler, or using data to answer a question. I'm still learning, and I've been building small projects to get more hands-on practice.
 
-### What I'm working on
+### What I'm learning
 
-I've been putting together a small portfolio around the kind of work I want to do professionally:
+- Working with **SQL and Excel** to organize data and explore trends
+- Writing clear, simple **business requirements and user stories**
+- Understanding **IT service requests**, processes, and basic reporting
+- Getting more comfortable with **Power BI, Tableau, and Agile concepts**
 
-- **[IT Demand Intake](https://github.com/owaizmirza/Owaiz-Mirza/tree/main/it-demand-intake-business-analysis)** — A sample IT request process, with requirements, user stories, process flows, and UAT test cases.
-- **[Retail Sales SQL Analysis](https://github.com/owaizmirza/Owaiz-Mirza/tree/main/retail-sales-sql-analysis)** — SQL queries to explore sales, returns, and performance trends.
-- **[Service Desk KPI Analysis](https://github.com/owaizmirza/Owaiz-Mirza/tree/main/service-desk-kpi-analysis)** — A reporting exercise focused on ticket backlog and response-time metrics.
+### Practice projects
 
-These are **independent learning projects** based on fictional scenarios and sample data, not work completed for an employer.
+These are independent learning projects using fictional scenarios and sample data—not projects completed for an employer.
 
-### Tools and areas I'm developing
+- **[IT Request Intake](https://github.com/owaizmirza/Owaiz-Mirza/tree/main/it-demand-intake-business-analysis)** — A practice example of how IT requests can be organized and tracked.
+- **[Retail Sales SQL Analysis](https://github.com/owaizmirza/Owaiz-Mirza/tree/main/retail-sales-sql-analysis)** — Exploring sales and returns using SQL.
+- **[Service Desk KPI Analysis](https://github.com/owaizmirza/Owaiz-Mirza/tree/main/service-desk-kpi-analysis)** — Learning how to measure ticket backlog and response times.
 
-**Business analysis:** requirements gathering, process mapping, user stories, acceptance criteria, stakeholder communication, and UAT.
+### What I'm looking for
 
-**Data and reporting:** SQL, Excel, Power BI, and Tableau.
+I'm exploring **entry-level Business Analyst, IT Business Analyst, Business Systems Analyst, and Data Analyst** opportunities. I'd like to join a team where I can contribute, ask questions, and keep developing my skills.
 
-**IT and delivery:** service request workflows, Agile practices, and working across business and technical teams.
-
-I'm interested in **Business Analyst, IT Business Analyst, Business Systems Analyst, and Data Analyst** opportunities where I can keep learning and contribute to meaningful projects.
-
-You can explore the full portfolio **[here](https://github.com/owaizmirza/Owaiz-Mirza)**.
+**[See my portfolio projects →](https://github.com/owaizmirza/Owaiz-Mirza)**
